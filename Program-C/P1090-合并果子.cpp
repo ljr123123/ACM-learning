@@ -4,8 +4,8 @@
 using namespace std;
 
 int n;
-long long int spirit = 0;
-long long int a[10000];
+long int spirit = 0;
+long int a[10000];
 
 bool cmp(int a, int b){
     return a < b;
